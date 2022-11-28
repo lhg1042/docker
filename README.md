@@ -3,7 +3,7 @@
 docker desktop 설치, docker hub 회원가입 후
 
 -mysql image 생성
-docker pull mysql:80.22 
+docker pull mysql:8.0.22 
 
 -docker 로그인
 docker login -u hyegyulee
